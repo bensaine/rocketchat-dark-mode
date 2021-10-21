@@ -7,12 +7,12 @@
 	--info-font-color: #a0a0a0;
 	--color-darker: #32353B;
 	--color-darkest: #36393F;
-    --color-dark: #2F3136;
+    	--color-dark: #2F3136;
 	--rc-color-primary-background: #2F3136;
 	--rcx-button-colors-ghost-border-color: #2F3136;
-    --rcx-button-colors-ghost-background-color: #2F3136;
+    	--rcx-button-colors-ghost-background-color: #2F3136;
 	--rcx-button-colors-ghost-success-border-color: #2F3136;
-    --rcx-button-colors-ghost-success-background-color: #2F3136;
+    	--rcx-button-colors-ghost-success-background-color: #2F3136;
 	--rcx-color-foreground-hint: #999ea7;
 }
 
